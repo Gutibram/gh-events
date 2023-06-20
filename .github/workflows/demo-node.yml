@@ -1,3 +1,5 @@
+name: Test get Node 12 and JAVA 11
+
 on:
   workflow_dispatch:
 
